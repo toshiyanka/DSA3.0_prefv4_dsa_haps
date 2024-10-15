@@ -1,0 +1,53 @@
+ctech_lib_and_dcszo	              {*and002*}
+ctech_lib_buf_dcszo	              {*bff000* *bfn000*}
+ctech_lib_clk_and_dcszo1	        {*cnanc2*}
+ctech_lib_clk_and_dcszo	          {*cinv00*}
+ctech_lib_clk_and_en_dcszo	      {*clb0a2*}
+ctech_lib_clk_buf_dcszo	          {*cbf000* *cbf012* *cbf014* *cbf026* *cbf034* *cbf112*}
+ctech_lib_clk_divider2_dcszo1	    {*cbf000* *cbf012* *cbf014* *cbf026* *cbf034* *cbf112*}
+ctech_lib_clk_divider2_dcszo	    {*cfun10*}
+ctech_lib_clk_divider2_rstb_dcszo	{*cfvn13*}
+ctech_lib_clk_ffb_dcszo	          {*cfun10*}
+ctech_lib_clk_ffb_rstb_dcszo	    {*cfvn13*}
+ctech_lib_clk_gate_and_dcszo	    {*cilb05* *cilb01* *cilao5* *cilb25*}
+ctech_lib_clk_gate_or_dcszo1	    {*lsn000* *ltn000*}
+ctech_lib_clk_gate_or_dcszo	      {*clb0o2*}
+ctech_lib_clk_gate_te_dcszo	      {*cilb05* *cilb01* *cilao5* *cilb25*}
+ctech_lib_clk_gate_te_rstb_dcszo1	{*cilb05* *cilb01* *cilao5* *cilb25*}
+ctech_lib_clk_gate_te_rstb_dcszo	{*clb0a2*}
+ctech_lib_clk_inv_dcszo	          {*cinv00*}
+ctech_lib_clk_mux_2to1_dcszo	    {*cmbn22*}
+ctech_lib_clk_nand_dcszo	        {*cnanc2*}
+ctech_lib_clk_nand_en_dcszo1	    {*clb0a2*}
+ctech_lib_clk_nand_en_dcszo	      {*cinv00*}
+ctech_lib_clk_nor_dcszo	          {*cnorc2*}
+ctech_lib_clk_nor_en_dcszo1	      {*clb0o2*}
+ctech_lib_clk_nor_en_dcszo	      {*cinv00*}
+ctech_lib_clk_or_dcszo1	          {*cnorc2*}
+ctech_lib_clk_or_dcszo	          {*cinv00*}
+ctech_lib_clk_or_en_dcszo	        {*clb0o2*}
+ctech_lib_doublesync_dcszo	      {*fmz203*}
+ctech_lib_doublesync_rst_dcszo1	  {*inv000* *inv020* *inv030* *inv040*}
+ctech_lib_doublesync_rst_dcszo	  {*fmz203*}
+ctech_lib_doublesync_rstb_dcszo	  {*fmz203*}
+ctech_lib_doublesync_set_dcszo	  {*fmz208*}
+ctech_lib_doublesync_setb_dcszo1	{*inv000* *inv020* *inv030* *inv040*}
+ctech_lib_doublesync_setb_dcszo	  {*fmz208*}
+ctech_lib_inv_dcszo	              {*inv000* *inv020* *inv030* *inv040*}
+ctech_lib_latch_dcszo	            {*lsn000* *ltn000*}
+ctech_lib_latch_p_dcszo	          {*lsn080* *ltn080*}
+ctech_lib_msff_async_rstb_dcszo	  {*fvn003*}
+ctech_lib_msff_async_setb_dcszo1	{*inv000* *inv020* *inv030* *inv040*}
+ctech_lib_msff_async_setb_dcszo	  {*fvn00b*}
+ctech_lib_mux_2to1_dcszo	        {*mbn022* *mkn022*}
+ctech_lib_nand_dcszo	            {*nand02* *nand22* *nand42* *nanp02*}
+ctech_lib_nor_dcszo	              {*nor002* *nor022* *nor042* *norp02*}
+ctech_lib_or_dcszo	              {*orn002*}
+ctech_lib_triplesync_dcszo	      {*fmz300*}
+ctech_lib_triplesync_rst_dcszo1	  {*inv000* *inv020* *inv030* *inv040*}
+ctech_lib_triplesync_rst_dcszo	  {*fmz303*}
+ctech_lib_triplesync_rstb_dcszo	  {*fmz303*}
+ctech_lib_triplesync_set_dcszo	  {*fmz308*}
+ctech_lib_triplesync_setb_dcszo1	{*inv000* *inv020* *inv030* *inv040*}
+ctech_lib_triplesync_setb_dcszo	  {*fmz308*}
+ctech_lib_xor_dcszo	              {*xor002* *xorc02*}

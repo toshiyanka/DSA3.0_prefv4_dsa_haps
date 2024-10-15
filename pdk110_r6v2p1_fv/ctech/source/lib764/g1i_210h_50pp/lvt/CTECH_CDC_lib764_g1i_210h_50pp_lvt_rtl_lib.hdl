@@ -1,0 +1,15 @@
+$hdl_spec = {
+    # List of specific VERILOG source files
+    -vlog_files => [
+        "/p/hdk/cad/stdcells/lib764_g1i_210h_50pp/pdk110_r6v0p0_fv/base_lvt/verilog/lib764_g1i_210h_50pp_base_lvt_bmod.v",
+        "/p/hdk/cad/stdcells/lib764_g1i_210h_50pp/pdk110_r6v0p0_fv/clk_lvt/verilog/lib764_g1i_210h_50pp_clk_lvt_bmod.v",
+        "/p/hdk/cad/stdcells/lib764_g1i_210h_50pp/pdk110_r6v0p0_fv/dsibase_lvt/verilog/lib764_g1i_210h_50pp_dsibase_lvt_bmod.v",
+        "/p/hdk/cad/stdcells/lib764_g1i_210h_50pp/pdk110_r6v0p0_fv/dsiclk_lvt/verilog/lib764_g1i_210h_50pp_dsiclk_lvt_bmod.v",
+        "/p/hdk/cad/stdcells/lib764_g1i_210h_50pp/pdk110_r6v0p0_fv/seq_lvt/verilog/lib764_g1i_210h_50pp_seq_lvt_bmod.v",
+        "/p/hdk/cad/stdcells/lib764_g1i_210h_50pp/pdk110_r6v0p0_fv/supclk_lvt/verilog/lib764_g1i_210h_50pp_supclk_lvt_bmod.v",
+    ],
+
+    # Arbitrary VLOG options
+    -vlog_opts => '-sverilog',
+
+};
