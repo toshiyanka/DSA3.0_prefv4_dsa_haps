@@ -1,0 +1,3 @@
+set_hwtop -module $env(DV_TOP)
+vcs_exec_command {analyze_elab.csh}
+design -report {force xmr} 
